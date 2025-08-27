@@ -1,0 +1,9 @@
+{
+  "brand": "eHybridLab",
+  "items": [
+    { "label": "Inicio", "href": "/" },
+    { "label": "Mods", "href": "/mods" },
+    { "label": "Repro", "href": "/repro" },
+    { "label": "Enlaces", "href": "/enlaces" }
+  ]
+}
